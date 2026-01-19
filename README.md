@@ -12,23 +12,6 @@ Technologies Used:
 - scikit-learn  
 - Jupyter Notebook  
 
-Project Structure:
-
-Entity Recognition Project/
-│
-├── data/
-│ ├── labeled_news.json
-│ └── new_articles.txt
-│
-├── outputs/
-│ └── annotated_articles.txt
-│
-├── reports/
-│ └── evaluation_metrics.txt
-│
-├── ner_news_project.ipynb
-└── README.md
-
 Approach:
 1. Loaded a small labeled news dataset  
 2. Converted data into spaCy training format  
