@@ -1,0 +1,87 @@
+[
+  {
+    "text": "Apple was founded by Steve Jobs in California in 1976.",
+    "entities": [
+      [
+        0,
+        5,
+        "ORG"
+      ],
+      [
+        21,
+        31,
+        "PERSON"
+      ],
+      [
+        35,
+        45,
+        "GPE"
+      ],
+      [
+        49,
+        53,
+        "DATE"
+      ]
+    ]
+  },
+  {
+    "text": "Microsoft acquired LinkedIn for 26 billion dollars.",
+    "entities": [
+      [
+        0,
+        9,
+        "ORG"
+      ],
+      [
+        19,
+        27,
+        "ORG"
+      ]
+    ]
+  },
+  {
+    "text": "Google announced new AI tools in Paris.",
+    "entities": [
+      [
+        0,
+        6,
+        "ORG"
+      ],
+      [
+        35,
+        40,
+        "GPE"
+      ]
+    ]
+  },
+  {
+    "text": "Amazon opened a new warehouse in Hyderabad.",
+    "entities": [
+      [
+        0,
+        6,
+        "ORG"
+      ],
+      [
+        33,
+        42,
+        "GPE"
+      ]
+    ]
+  },
+  {
+    "text": "Elon Musk is the CEO of Tesla.",
+    "entities": [
+      [
+        0,
+        9,
+        "PERSON"
+      ],
+      [
+        24,
+        29,
+        "ORG"
+      ]
+    ]
+  }
+]

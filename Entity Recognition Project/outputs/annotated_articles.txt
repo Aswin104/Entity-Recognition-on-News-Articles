@@ -1,0 +1,3 @@
+[ORG]Tesla[/ORG] announced a new factory in [DATE]Germany[/DATE].
+[ORG]Google[/ORG] hired new engineers in [DATE]India[/DATE].
+[ORG]Apple[/ORG] is planning to launch a product in [DATE]2025[/DATE].
